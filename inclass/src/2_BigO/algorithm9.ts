@@ -11,7 +11,7 @@
 
 // ----- YOUR ANSWERS ------
 
-export const ANSWER_I = 'O(AB)'
+export const ANSWER_I = 'O(n^2)'
 
 // ------------------------
 
